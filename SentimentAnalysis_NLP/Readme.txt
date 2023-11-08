@@ -1,0 +1,1 @@
+Applied NLP sentiment analysis to a series of tweets. Classified the emotions using Logistic Regression then KNN Classification. 
